@@ -14,10 +14,10 @@ Our main goal was to create a powerful dashboard to help the marketing team impr
 + The relation between House type and countries. 
     *  some nationality prefer specific type of houses. 
     * the availability of home type in each country. 
-4+ The increase or decrease of renewal subscriptions in some country.
++ The increase or decrease of renewal subscriptions in some country.
    * The churn of hosts can affect the availability of houses in different countries?
 # tools
- + BigQuery :to perform iinitial EDA on the raw data sources
+ + BigQuery : to perform iinitial EDA on the raw data sources
     * Examine the data types, formats, and quality of the various data tables.
     * Identify any missing values, outliers, or inconsistencies that need to be addressed.
     * Understand the relationships and dependencies between different data entities.
