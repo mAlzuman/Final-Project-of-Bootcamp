@@ -12,14 +12,14 @@ Our main goal was to create a powerful dashboard to help the marketing team impr
 1. Seasons affect the customer Activity. 
 2. Countries affect the customer Activity. 
 3. The relation between House type and countries. 
-    * 3.1 some nationality prefer specific type of houses. 
-     3.2 the availability of home type in each country. 
+    *  some nationality prefer specific type of houses. 
+    * the availability of home type in each country. 
 4. The increase or decrease of renewal subscriptions in some country.
    4.1 The churn of hosts can affect the availability of houses in different countries?
 # tools
  1. BigQuery :
    to perform iinitial EDA on the raw data sources
-   . Examine the data types, formats, and quality of the various data tables.
+   + Examine the data types, formats, and quality of the various data tables.
    . Identify any missing values, outliers, or inconsistencies that need to be addressed.
    . Understand the relationships and dependencies between different data entities.
    . Generate summary statistics and visualizations to gain insights into the data.
