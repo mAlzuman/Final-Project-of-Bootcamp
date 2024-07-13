@@ -17,8 +17,13 @@ Our main goal was to create a powerful dashboard to help the marketing team impr
 + The increase or decrease of renewal subscriptions in some country.
    * The churn of hosts can affect the availability of houses in different countries?
 # tools
- + BigQuery : to perform iinitial EDA on the raw data sources
+ + BigQuery : to perform iinitial EDA on the raw data sources:
     * Examine the data types, formats, and quality of the various data tables.
     * Identify any missing values, outliers, or inconsistencies that need to be addressed.
     * Understand the relationships and dependencies between different data entities.
     * Generate summary statistics and visualizations to gain insights into the data.
+      
+ + Power BI Integration and Visualization:
+   * Establish a secure connection between Power BI and the BigQuery data warehouse.
+   * Import the relevant data tables and entities from BigQuery into the Power BI data model.
+   * Build interactive visualizations and dashboards that allow the marketing team to explore and analyze the campaign performance data.
